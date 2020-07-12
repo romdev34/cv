@@ -1,0 +1,2 @@
+AuthUserFile "/home/heyofnqs/.htpasswds/public_html/projets/cv/passwd"
+AuthName "demo"
